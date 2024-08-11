@@ -308,8 +308,9 @@ class Solution {
                 dp2[j] = (dp2[j - 1] + dp[j - d]) % mod
             dp, dp2 = dp2, [0] * m
         return sum(dp) % mod
-</details>
 ```
+</details>
+
 <details>
 <summary>Cpp</summary>
 
