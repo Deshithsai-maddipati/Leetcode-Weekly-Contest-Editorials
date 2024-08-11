@@ -312,7 +312,7 @@ class Solution {
 
 <details>
 <summary>Cpp</summary>
-
+```
 ```cpp
 
  class Solution {
